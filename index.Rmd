@@ -16,7 +16,7 @@ knitr::opts_chunk$set(dev='png', dpi=300, cache=TRUE)
 pdf.options(useDingbats = TRUE)
 ```
 
-## Project web page for GEOG 4/595 *R for Earth-System Science* ##
+## Project web page for GEOG 4/590 *R for Earth-System Science* ##
 	
 Topics covered in this project include:
 

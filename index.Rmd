@@ -18,7 +18,7 @@ pdf.options(useDingbats = TRUE)
 
 ## Project web page for GEOG 4/595 *R for Earth-System Science* ##
 	
-Topics covered here include:
+Topics covered in this project include:
 
 - An introduction to the project
 - A simple example of plotting a raster slice
